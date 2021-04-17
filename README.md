@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kang%20EunByeol&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kang%20EunByeol&fontSize=90&fontColor=ffffff)
 
 ### Hi there 👋
 
